@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CsarMB
-- 👀 I’m interested in navigation, robotics and control
+- 👀 I’m interested in navigation, power electronics and control
 - 🌱 I’m currently learning Python, Labview and C
 - 📫 How to reach me cmb8_8@hotmail.com
 
